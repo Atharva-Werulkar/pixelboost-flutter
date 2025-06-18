@@ -199,48 +199,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/twitter/follow/pixelboostpro?color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/pixelboostpro)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@pixelboostpro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-werulkar/)
+[![Twitter](https://x.com/atharvawerulkar?color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/atharvawerulkar)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:werulkaratharva@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>🎉 Ready to transform your images? Let's get started! 🎉</h3>
-  <p>Star ⭐ this repository if you found it helpful!</p>
-</div>
-
----
-
-## 📝 **Repository Information**
-
-### **Repository Name:**
-```
-pixelboost-flutter
-```
-
-### **Short Description (for GitHub):**
-```
-🎨 AI-powered Flutter app for enhancing image quality with 2x-4x upscaling using advanced machine learning. Features minimal dark UI, secure cloud storage, and professional-grade results.
-```
-
-### **Topics/Tags:**
-```
-flutter dart ai image-processing machine-learning upscaling mobile-app supabase pixelcut-api image-enhancement cross-platform material-design dark-theme minimal-ui
-```
-
-### **Repository Features:**
-- ✅ **Public Repository** (recommended for portfolio/showcase)
-- ✅ **MIT License** (open source friendly)
-- ✅ **Issues Enabled** (for bug reports and feature requests)
-- ✅ **Wiki Enabled** (for detailed documentation)
-- ✅ **Discussions Enabled** (for community engagement)
-
----
-
-<div align="center">
-  <p>Made with ❤️ using Flutter</p>
+  <p>Made with 💙 using Flutter</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
