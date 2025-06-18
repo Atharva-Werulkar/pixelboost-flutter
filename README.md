@@ -201,9 +201,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-werulkar/)
 [![Twitter](https://img.shields.io/badge/Twitter-Connect-blue?color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/atharvawerulkar)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:werulkaratharva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-werulkaratharva@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:werulkaratharva@gmail.com)
 
 </div>
+
+### 📧 **Contact Information**
+
+If the email badge doesn't work in your browser, you can reach out via:
+
+- **📧 Email:** `werulkaratharva@gmail.com`
+- **💼 LinkedIn:** [Atharva Werulkar](https://www.linkedin.com/in/atharva-werulkar/)
+- **🐦 Twitter:** [@atharvawerulkar](https://x.com/atharvawerulkar)
+
+*Note: Copy the email address above if the mailto link doesn't work in your browser.*
 
 ---
 
